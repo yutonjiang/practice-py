@@ -1,0 +1,4 @@
+numpy:矩陣運算
+pandas:讀入外部資料
+matplotlib:繪製統計圖表
+scipy:進行高等運算
